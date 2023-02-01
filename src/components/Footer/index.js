@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 
 function Footer() {
   return (
@@ -26,9 +25,7 @@ function Footer() {
       </div>
 
       <div class="footer-copyright text-center py-3">
-        © 2020 Copyright:
-          {" "}
-          Tyler Kandarian
+        © 2023 Copyright: Tyler Kandarian
       </div>
     </footer>
   );
