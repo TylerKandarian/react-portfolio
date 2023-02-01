@@ -1,6 +1,6 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
-import Resume from "../assets/Tyler's-Resume-2023.pdf";
+import Resume from "../assets/TYLER_WEBDEV_2023";
 
 const AboutMe = () => {
   return (
