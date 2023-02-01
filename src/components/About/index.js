@@ -17,8 +17,6 @@ const AboutMe = () => {
           <p style={{ fontSize: "27px" }}>
             Hello, my name is Tyler Kandarian and I am a Full Stack Web Developer. I have a bachelors in Aviation Science
             and Managementbut but pivited to help companies find faster solutions and help users have a better experience on web applications.
-          </p>
-          <p style={{ fontSize: "27px" }}>
             I am proficient with HTML, CSS, JavaScript, React and much more. I have experience with Windows operating systems and Mac OS. 
             I have an eagerness to learn more and always advance in what i am doing. There is alwasy new techniques and technologies to learn so in my free time 
             thats is what I do along with watching Soccer, learning aboyt space and playing video games.
