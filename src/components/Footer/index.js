@@ -9,7 +9,8 @@ function Footer() {
           <li className="list-inline-item">
             <a
               className="btn-floating btn-fb mx-1"
-              href="https://github.com/TylerKandarian"
+              // eslint-disable-next-line
+              href="https://github.com/TylerKandarian" target="_blank"
             >
               <i className="fab fa-github"> </i>
             </a>
@@ -17,13 +18,14 @@ function Footer() {
           <li className="list-inline-item">
             <a
               className="btn-floating btn-li mx-1"
-              href="https://www.linkedin.com/in/tyler-kandarian-258864226/"
+              // eslint-disable-next-line
+              href="https://www.linkedin.com/in/tyler-kandarian-258864226/" target="_blank"
             >
               <i className="fab fa-linkedin-in"> </i>
             </a>
           </li>
+          © 2023 Copyright
         </ul>
-        © 2023 Copyright: Tyler Kandarian
       </div>
     </footer>
   );
